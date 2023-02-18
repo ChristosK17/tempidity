@@ -10,7 +10,7 @@ and will be able to handle simple information storage and retrieval requests for
     
 ## Deployment
 
-To deploy this project run  ``` Main.java ```
+To deploy this project run  ``` controllers/src/main/java/com/rest/Main.java ```
 
 
 ## UI by Swagger
